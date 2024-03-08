@@ -1,0 +1,3 @@
+[submodule "e-clothing-frontend"]
+	path = e-clothing-frontend
+	url = https://github.com/TheNameIsKarthik/e-clothing-frontend.git
